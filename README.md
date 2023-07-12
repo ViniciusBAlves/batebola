@@ -1,5 +1,6 @@
 Engenharia de Software - Site do BateBola
-![BateBolaLogo](https://github.com/PaoloOrguim/batebola/assets/89609677/89bf19fd-2a29-4fef-89d8-32d219fa7575)
+
+![BateBolaLogo](https://github.com/PaoloOrguim/batebola/assets/89609677/89bf19fd-2a29-4fef-89d8-32d219fa7575 =250x250)
 
 Explicação do site
 O objetivo do BateBola é servir como plataforma que agrega indivíduos a partir de 18 anos de idade e arenas esportivas com um objetivo em comum:
@@ -14,4 +15,3 @@ $ git clone link
 $ cd pasta/do/projeto/batebola
 $ npm install
 $ npm run dev
-Imagem
